@@ -8,7 +8,7 @@ public class UserStory7 extends TestBase {
     public void tc01(){
         System.out.println("test");
         System.out.println("test2");
-        //trying to rebase user 7
+
 
     }
 
