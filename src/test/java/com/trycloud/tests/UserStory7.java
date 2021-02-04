@@ -7,6 +7,7 @@ public class UserStory7 extends TestBase {
     @Test
     public void tc01(){
         System.out.println("test");
+        System.out.println("test2");
     }
 
 }
