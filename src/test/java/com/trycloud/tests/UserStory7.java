@@ -8,8 +8,7 @@ public class UserStory7 extends TestBase {
     public void tc01(){
         System.out.println("test");
         System.out.println("test2");
-        //user 7 branch rebase
-        //bababooey
+
 
     }
 
