@@ -47,5 +47,9 @@
     <orderEntry type="library" name="Maven: org.rauschig:jarchivelib:1.1.0" level="project" />
     <orderEntry type="library" name="Maven: org.apache.commons:commons-compress:1.20" level="project" />
     <orderEntry type="library" name="Maven: org.jsoup:jsoup:1.13.1" level="project" />
+    <orderEntry type="library" name="Maven: com.github.javafaker:javafaker:1.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.yaml:snakeyaml:android:1.23" level="project" />
+    <orderEntry type="library" name="Maven: com.github.mifmif:generex:1.0.2" level="project" />
+    <orderEntry type="library" name="Maven: dk.brics.automaton:automaton:1.11-8" level="project" />
   </component>
 </module>
